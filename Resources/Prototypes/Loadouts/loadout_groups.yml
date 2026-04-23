@@ -1172,7 +1172,7 @@
   name: loadout-group-scientist-head
   minLimit: 0
   loadouts:
-  #- RoboticistCap
+  - RoboticistCap
   #- SkullBandana
   - ScientificBeret
 
